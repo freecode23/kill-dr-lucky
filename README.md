@@ -1,4 +1,4 @@
-# Semester Project
+# Kill Dr Lucky
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
 Memmbers : Annanya Sah and Sherly Hartono
