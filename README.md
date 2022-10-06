@@ -80,7 +80,7 @@ Number of turns once read from the file by command line argument cannot be chang
 3) Space coordinates don't overlap thus we only account for duplicate coordinate of spaces when checking for validity.
 
 ### Authors
-Sherly Horonto and 
+Sherly Hartono and 
 Annanya Sah
 ### Citations
 https://stackoverflow.com/  
