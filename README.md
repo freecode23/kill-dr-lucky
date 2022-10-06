@@ -1,7 +1,7 @@
 # Kill Dr Lucky Game
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
-Memmbers : Annanya Sah and Sherly Hartono
+Members : Annanya Sah and Sherly Hartono
 
 **Email:** hartono.s@northeastern.edu 
         sah.a@northeastern.edu
