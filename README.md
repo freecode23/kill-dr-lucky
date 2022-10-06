@@ -1,11 +1,10 @@
-# CS 5010 Semester Project
+# Semester Project
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
-**Team Name:** AnnanyaSherly
-Memmbers : Annanya Sah and Sherly Horonto
+Memmbers : Annanya Sah and Sherly Hartono
 
 **Email:** hartono.s@northeastern.edu 
-        sah.a@northeaster.edu
+        sah.a@northeastern.edu
 
 **Preferred Name:** Sherly, Annnaya
 
