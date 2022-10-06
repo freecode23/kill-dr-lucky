@@ -1,0 +1,46 @@
+36 30 Doctor Lucky's Mansion
+50 Doctor Lucky
+Fortune the Cat
+21
+22 19 23 26 Armory
+16 21 21 28 Billiard Room
+28  0 35  5 Carriage House
+12 11 21 20 Dining Hall
+22 13 25 18 Drawing Room
+26 13 27 18 Foyer
+28 26 35 29 Green House
+30 20 35 25 Hedge Maze
+16  3 21 10 Kitchen
+ 0  3  5  8 Lancaster Room
+ 4 23  9 28 Library
+ 2  9  7 14 Lilac Room
+ 2 15  7 22 Master Suite
+ 0 23  3 28 Nursery
+10  5 15 10 Parlor
+28 12 35 19 Piazza
+ 6  3  9  8 Servants' Quarters
+ 8 11 11 20 Tennessee Room
+10 21 15 26 Trophy Room
+22  5 23 12 Wine Cellar
+30  6 35 11 Winter Garden
+20
+8 3 Crepe Pan
+4 2 Letter Opener
+12 2 Shoe Horn
+8 3 Sharp Knife
+0 3 Revolver
+15 3 Civil War Cannon
+2 4 Chain Saw
+16 2 Broom Stick
+1 2 Billiard Cue
+19 2 Rat Poison
+6 2 Trowel
+2 4 Big Red Hammer
+6 2 Pinking Shears
+18 3 Duck Decoy
+13 2 Bad Cream
+18 2 Monkey Hand
+11 2 Tight Hat
+19 2 Piece of Rope
+9 3 Silken Cord
+7 2 Loud Noise

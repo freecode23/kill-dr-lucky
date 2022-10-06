@@ -1,0 +1,46 @@
+27 23 NortheasternX Disney Land
+10 Prof Jump
+Fortune the Cat
+20									
+ 3  1  5  2 Archery
+11  0 14  4 Behrakis
+17 14 23 17 Bumper Car
+ 6  1 10  8 Cabot Testing Center
+24 11 26 17 Catholic Center
+13  9 16 15 Curry Student Center
+17 18 21 22 fishing pond
+ 5 15  9 19 Forsyth Bldg
+ 0  7  2  8 Hayden Hall
+ 1 15  4 17 Marino Recreation
+21  1 24  7 Merry Go Round
+ 3  5  5  8 Mirror Escape room
+11  5 14  8 Monkey Forest
+10 16 16 18 Snell Engineering
+17  3 20 13 Snell Library
+ 0  9  9 14 splash mountain
+21  8 25 10 Time Travel
+15  2 16  6 toilet
+ 0  3  2  4 West Village
+ 0  0  2  2 zombie VR
+21
+0 3 Suction Cup Arrows						
+1 2 Random Printing						
+2 10 gasoline						
+3 10 Covid saliva sample						
+5 15 Popeyes chicken bones						
+6 3 fish smell						
+6 1 fish hook						
+7 13 vague java docs						
+9 10 40 lb dumb bell						
+9 5 smelly towel						
+10 5 one hour of merry go round						
+12 3 flu virus			
+12 1 Banana skin			
+14 5 no comfy seats						
+14 4 bad neighboring conversation						
+4 2 cross necklace						
+7 4 Syringe						
+16 20 travel to world war 2 machine						
+16 30 travel to Dinosaur era machine						
+17 2 damp toilet paper						
+19 4 motion size VR goggle						
