@@ -1,5 +1,5 @@
 # Kill Dr Lucky Game
-This repo represents the coursework for CS 5010, the Fall 2022 Edition!
+Blog link: https://hartono-s.herokuapp.com/blogposts/633ed31abc5f3dea696d2efb
 
 Members : Annanya Sah and Sherly Hartono
 
